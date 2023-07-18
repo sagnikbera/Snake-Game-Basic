@@ -12,6 +12,7 @@ let food = {x:10 , y:13};
 let score = 0;
 let tempScore = 5;
 
+
 //here origin is the top-left side , top left to right side is positive x axis and top left to bottm left is psitive y axis.
 
 //Game Function

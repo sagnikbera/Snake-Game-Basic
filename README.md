@@ -19,9 +19,9 @@ Welcome to the Snake Game!
 >>High Score will be stored in local browser , it will update as per score corssed the Hight score as well.
 
 **Skills Used**
-JavaScript: To implement the game's logic and functionality.
-HTML: For the game's layout and structure.
-CSS: To style the game and make it visually appealing.
+>>JavaScript: To implement the game's logic and functionality.
+>>HTML: For the game's layout and structure.
+>>CSS: To style the game and make it visually appealing.
 
 **Contribution**
 Contributions to the Snake Game project are welcome! If you find any issues or want to add new features, feel free to submit a pull request.(I will love to get any degine improvement).

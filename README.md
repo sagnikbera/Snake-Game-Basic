@@ -15,6 +15,9 @@ Welcome to the Snake Game!
 **Speed Level**
 >>The snake's initial speed is set to level 5. For every 5 points score increased , the speed increases by 1, making the game progressively more difficult.
 
+**High Score**
+>>High Score will be stored in local browser , it will update as per score corssed the Hight score as well.
+
 **Skills Used**
 JavaScript: To implement the game's logic and functionality.
 HTML: For the game's layout and structure.

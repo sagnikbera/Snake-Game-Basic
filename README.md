@@ -26,6 +26,9 @@ Welcome to the Snake Game!
 **Contribution**
 Contributions to the Snake Game project are welcome! If you find any issues or want to add new features, feel free to submit a pull request.(I will love to get any degine improvement).
 
+**Live Link**
+https://sagnikbera.github.io/Snake-Game-Basic/
+
 **License**
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the MIT License.
 

@@ -32,4 +32,4 @@ https://sagnikbera.github.io/Snake-Game-Basic/
 **License**
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the MIT License.
 
-Have fun playing the Snake Game and enjoy the challenge of reaching the highest score!
+Have fun playing the Snake Game and enjoy the challenge of reaching the highest score! Best of luck.
